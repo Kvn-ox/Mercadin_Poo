@@ -27,12 +27,6 @@ public class Comida extends Produto implements Descartavel {
         }
         return true;
     }
-
-    @Override
-    public boolean Descartar() {
-        return false;
-    }
-
     @Override
     public void mostrar() {
         System.out.println(getNome() + " | R$ " + getPreco() + " | Val: " + validade);
