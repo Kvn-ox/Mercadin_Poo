@@ -1,0 +1,4 @@
+model.Cliente: Kevin
+Itens:
+Total da Venda: R$ 0.0
+--------------------------------------------------
